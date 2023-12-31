@@ -1,6 +1,6 @@
 {
   "name": "@aspianet/ticketing-common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Common package for my Ticketing project microservices.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
